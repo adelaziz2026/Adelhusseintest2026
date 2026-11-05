@@ -1,5 +1,10 @@
 # Data Science Starter
 
+![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-ee4c2c?logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-f37626?logo=jupyter&logoColor=white)
+
 An end-to-end data science project: load data, explore, train, and evaluate.
 
 ## Setup
