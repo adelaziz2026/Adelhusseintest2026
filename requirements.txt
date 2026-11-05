@@ -1,8 +1,35 @@
+# Core numerics and data handling
 numpy
+scipy
 pandas
+polars
+pyarrow
+
+# Visualization
 matplotlib
 seaborn
+plotly
+
+# Machine learning
 scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Statistics and time series
+statsmodels
+
+# Deep learning
 torch
+torchvision
+
+# Model tuning and explainability
+optuna
+shap
+
+# Notebooks and tooling
 jupyter
 nbformat
+tqdm
+joblib

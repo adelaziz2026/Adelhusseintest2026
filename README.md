@@ -10,6 +10,8 @@ pip install -r requirements.txt
 jupyter notebook notebooks/01_exploration_and_model.ipynb
 ```
 
+The dependency list in `requirements.txt` covers the common data science stack: NumPy/SciPy/pandas/Polars, Matplotlib/Seaborn/Plotly, scikit-learn/XGBoost/LightGBM/CatBoost, statsmodels, PyTorch, Optuna and SHAP.
+
 ## Layout
 
 - `notebooks/` – Jupyter notebooks (`01` exploration and a first model, `02` ML vs. deep learning comparison)
