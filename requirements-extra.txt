@@ -3,29 +3,29 @@
 -r requirements.txt
 
 # Core numerics and data handling
-scipy
-polars
-pyarrow
+scipy==1.18.1
+polars==2.1.0
+pyarrow==26.0.1
 
 # Visualization
-plotly
+plotly==7.1.0
 
 # Machine learning
-xgboost
-lightgbm
-catboost
-imbalanced-learn
+xgboost==3.4.1
+lightgbm==4.7.0
+catboost==1.2.10
+imbalanced-learn==0.14.2
 
 # Statistics and time series
-statsmodels
+statsmodels==0.15.0
 
 # Deep learning
-torchvision
+torchvision==0.29.2
 
 # Model tuning and explainability
-optuna
-shap
+optuna==5.0.0
+shap==0.54.1
 
 # Tooling
-tqdm
-joblib
+tqdm==4.70.1
+joblib==1.6.0
