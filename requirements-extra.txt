@@ -1,0 +1,31 @@
+# Optional extras on top of the core requirements.
+# Install with: pip install -r requirements-extra.txt
+-r requirements.txt
+
+# Core numerics and data handling
+scipy
+polars
+pyarrow
+
+# Visualization
+plotly
+
+# Machine learning
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Statistics and time series
+statsmodels
+
+# Deep learning
+torchvision
+
+# Model tuning and explainability
+optuna
+shap
+
+# Tooling
+tqdm
+joblib

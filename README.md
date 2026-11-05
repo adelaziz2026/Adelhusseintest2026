@@ -10,6 +10,8 @@ pip install -r requirements.txt
 jupyter notebook notebooks/01_exploration_and_model.ipynb
 ```
 
+`requirements.txt` has only what the example notebooks need. For the wider data science stack (SciPy, Polars, Plotly, XGBoost/LightGBM/CatBoost, statsmodels, torchvision, Optuna, SHAP and more), run `pip install -r requirements-extra.txt`.
+
 ## Layout
 
 - `notebooks/` – Jupyter notebooks (`01` exploration and a first model, `02` ML vs. deep learning comparison)
