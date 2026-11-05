@@ -10,7 +10,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/01_exploration_and_model.ipynb
 ```
 
-The dependency list in `requirements.txt` covers the common data science stack: NumPy/SciPy/pandas/Polars, Matplotlib/Seaborn/Plotly, scikit-learn/XGBoost/LightGBM/CatBoost, statsmodels, PyTorch, Optuna and SHAP.
+`requirements.txt` has only what the example notebooks need. For the wider data science stack (SciPy, Polars, Plotly, XGBoost/LightGBM/CatBoost, statsmodels, torchvision, Optuna, SHAP and more), run `pip install -r requirements-extra.txt`.
 
 ## Layout
 
